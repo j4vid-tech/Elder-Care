@@ -1,0 +1,106 @@
+<resources>
+    <!-- Common -->
+    <string name="app_name">ElderCare</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="welcome">Welcome!</string>
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+    <string name="notification">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="overview">Overview</string>
+    <string name="patients_overview">Patients overview</string>
+
+
+
+
+
+    <!-- Meal plan -->
+    <string name="mealplan">Meal Plan</string>
+    <string name="confirm_meal">Confirm Meal</string>
+    <string name="add_meal">Add meal</string>
+
+
+    <!-- Domain -->
+    <string name="caregiver">Caregiver</string>
+    <string name="senior">Senior</string>
+    <string name="elder">Elder</string>
+    <string name="elderly">Elderly</string>
+
+    <!-- Authentication -->
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="enter_password">Enter your code</string>
+
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot password? Click to get reset password</string>
+    <string name="no_account">I do not have an account</string>
+
+    <!-- SignUp -->
+    <string name="already_have_account">I already have an account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password_min_length_info">The password should be at least six characters.</string>
+
+    <!-- Add patient -->
+    <string name="add_patient">Add new patient</string>
+    <string name="add_existing_patient">Add existing patient</string>
+    <string name="address">Address</string>
+    <string name="dietaryRestrictions">Dietary Restrictions</string>
+    <string name="contactNumber">Contact Number</string>
+    <string name="dateOfBirth">Date Of Birth</string>
+    <string name="preferences">Preferences</string>
+    <string name="connect_patient">Connect patient</string>
+    <string name="patient_list">All patients list</string>
+    <string name="phone_number">Phone number</string>
+    <string name="no_patients_found">No patients found</string>
+
+    <!-- Overview -->
+    <string name="remaining_meals">Remaining</string>
+    <string name="greeting">Hello</string>
+    <string name="missed_meals">Missed</string>
+    <string name="eaten_meals">Eaten</string>
+    <string name="alerts">Alerts</string>
+
+
+    <!-- Add Meal -->
+    <string name="selected_date">Selected Date</string>
+    <string name="open_date_picker">Open Date Picker</string>
+    <string name="open_time_picker">Open Time Picker</string>
+    <string name="selected_time">Selected Time</string>
+    <string name="select_a_meal">Select a Meal</string>
+    <string name="selected_meal">Selected Time</string>
+    <string name="additional_Info">Additional Info</string>
+    <string name="add_Meal">Add Meal</string>
+    <string name="dish">Dish</string>
+    <string name="set_time">Time Format MM-dd-yyyy HH-mm-ss</string>
+    <string name="at">at</string>
+
+    <!-- QR code -->
+    <string name="qr_scan">Scan QR Code</string>
+    <string name="qr_show">Show QR Code</string>
+    <string name="my_qr_show">Show my QR Code</string>
+    <string name="qr_find">Hold QR Code in front of camera</string>
+
+
+    <!-- patient-profile -->
+    <string name="meal_history">Meal History</string>
+    <string name="detail">Detail</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="personal_qr_string">Your personal QR-Code. Can be scanned by caretaker to add to patients list</string>
+
+    <!-- Meal-History -->
+    <string name="date_and_time">Date and Time</string>
+    <string name="have_eaten">Have Eaten</string>
+    <string name="meal">Meal</string>
+
+    <!-- Notifications -->
+    <string name="time_to_eat">Time to eat: </string>
+    <string name="reminder">Reminder for </string>
+    <string name="have_you_eaten_pt">Eat and confirm meal: </string>
+    <string name="patient_warning">WARNING: Patient </string>
+    <string name="has_missed_meals"> has missed 3 consecutive meals</string>
+</resources>

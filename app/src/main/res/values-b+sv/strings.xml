@@ -1,0 +1,101 @@
+<resources>
+    <!-- Common -->
+    <string name="app_name">ÄldreVård</string>
+    <string name="hello_world">Hej världen!</string>
+    <string name="main_menu">Huvud Meny</string>
+    <string name="welcome">Välkommen!</string>
+    <string name="generic_error">Något gick fel. Försök igen.</string>
+    <string name="notification">Notifikationer</string>
+    <string name="settings">Inställningar</string>
+    <string name="overview">Översikt</string>
+    <string name="patients_overview">Patient översikt</string>
+
+
+    <!-- Meal plan -->
+    <string name="mealplan"> Måltider</string>
+    <string name="confirm_meal">Bekräfta Måltiden</string>
+    <string name="add_meal">Lägg till måltid</string>
+
+    <!-- Domain -->
+    <string name="caregiver">Vårdare</string>
+    <string name="senior">Senior</string>
+    <string name="elder">Älder</string>
+    <string name="elderly">Kund</string>
+
+    <!-- Authentication -->
+    <string name="full_name">Fullständigt Namn</string>
+    <string name="email">Mail</string>
+    <string name="password">Lösenord</string>
+    <string name="repeat_password">Bekräfta Lösenord</string>
+    <string name="enter_password">Skriv in din kod</string>
+
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_in">Logga In</string>
+    <string name="forgot_password">Glömt Password? Klicka för ställa om Lösenordet!</string>
+    <string name="no_account">Jag har inget konto.</string>
+
+    <!-- SignUp -->
+    <string name="already_have_account">Jag har redan ett konto</string>
+    <string name="sign_up">Registera dig</string>
+    <string name="password_min_length_info">Lösenordet borde ha minst sex karaktärer.</string>
+
+    <!-- Add patient -->
+    <string name="add_patient">Lägg till ny patient</string>
+    <string name="add_existing_patient">Lägg till existerande patient</string>
+    <string name="address">Adress</string>
+    <string name="dietaryRestrictions">Särskild kost</string>
+    <string name="contactNumber">Kontaktnummer</string>
+    <string name="dateOfBirth">Födelsedatum</string>
+    <string name="preferences">Preferenser</string>
+    <string name="connect_patient">Anslut till patient</string>
+    <string name="patient_list">Patient lista</string>
+    <string name="phone_number">Telefonnummer</string>
+    <string name="no_patients_found">Kunde inte hitta några patienter</string>
+
+    <!-- Overview -->
+    <string name="remaining_meals">Återstående</string>
+    <string name="greeting">Hej</string>
+    <string name="missed_meals">Missade</string>
+    <string name="eaten_meals">Har Ätits</string>
+    <string name="alerts">Larm</string>
+
+    <!-- Add Meal -->
+    <string name="additional_Info">Ytterligare information</string>
+    <string name="open_date_picker">Öppna Datumväljaren</string>
+    <string name="selected_date">Valt Datum</string>
+    <string name="open_time_picker">Öppna Tidväljaren</string>
+    <string name="selected_time">Vald Tid</string>
+    <string name="select_a_meal">Välj Måltid</string>
+    <string name="selected_meal">Vald Måltid</string>
+    <string name="add_Meal">Lägg till Måltid</string>
+    <string name="dish">Maträtt</string>
+    <string name="set_time">Tid Format MM-dd-yyyy HH-mm-ss</string>
+    <string name="at">vid</string>
+
+    <!-- QR code -->
+    <string name="qr_scan">Skanna QR kod</string>
+    <string name="qr_show">Visa QR kod</string>
+    <string name="my_qr_show">Visa min QR kod</string>
+    <string name="qr_find">Håll QR-koden framför kameran</string>
+
+    <!-- patient-profile -->
+    <string name="meal_history">Måltidshistoria</string>
+    <string name="detail">Detalj</string>
+    <string name="edit_profile">Redigera profil</string>
+    <string name="personal_qr_string">Din personliga QR-kod. Kan scannas av vårdare för att lägga till i patientlista</string>
+
+    <!-- Meal-History -->
+    <string name="date_and_time">Datum och Tid</string>
+    <string name="have_eaten">Har Ätit</string>
+    <string name="meal">Måltid</string>
+
+    <!-- Notifications -->
+    <string name="time_to_eat">Dags att äta: </string>
+    <string name="reminder">Påminnelse för </string>
+    <string name="have_you_eaten_pt">Ät och bekräfta måltid: </string>
+    <string name="patient_warning">VARNING: Patient </string>
+    <string name="has_missed_meals"> har missat tre konsekventa måltider</string>
+
+</resources>
